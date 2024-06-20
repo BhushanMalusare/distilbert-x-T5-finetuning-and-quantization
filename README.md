@@ -175,8 +175,8 @@ distilbert_x_t5/
 
 ## Results
 
-<a href=""><img src="distracted_driver_without_phone.png" width="40%" alt="Intent Recognition Results"></a>
-<a href=""><img src="distracted_driver_with_phone.png" width="40%" alt="Text Summarization Results"></a>
+<a href=""><img src="intent_recognition_demo.png" width="40%" alt="Intent Recognition Results"></a>
+<a href=""><img src="summarization_demo.png" width="40%" alt="Text Summarization Results"></a>
 
 
 
