@@ -177,11 +177,11 @@ distilbert_x_t5/
 
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src="intent_recognition_demo.png" alt="Image 1" style="width: 50%;">
+        <img src="intent_recognition_demo.png" alt="Image 1" style="width: 100%;">
         <figcaption style="text-align: center;">Intent recognition demo</figcaption>
     </figure>
     <figure style="margin-left: 20px;">
-        <img src="summarization_demo.png" alt="Image 2" style="width: 50%;">
+        <img src="summarization_demo.png" alt="Image 2" style="width: 100%;">
         <figcaption style="text-align: center;">Text summarization demo</figcaption>
     </figure>
 </div>
