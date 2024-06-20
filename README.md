@@ -175,16 +175,9 @@ distilbert_x_t5/
 
 ## Results
 
-<div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="intent_recognition_demo.png" alt="Image 1" style="width: 100%;">
-        <figcaption style="text-align: center;">Intent recognition demo</figcaption>
-    </figure>
-    <figure style="margin-left: 20px;">
-        <img src="summarization_demo.png" alt="Image 2" style="width: 100%;">
-        <figcaption style="text-align: center;">Text summarization demo</figcaption>
-    </figure>
-</div>
+<a href=""><img src="distracted_driver_without_phone.png" width="40%" alt="Intent Recognition Results"></a>
+<a href=""><img src="distracted_driver_with_phone.png" width="40%" alt="Text Summarization Results"></a>
+
 
 
 ## Notes
