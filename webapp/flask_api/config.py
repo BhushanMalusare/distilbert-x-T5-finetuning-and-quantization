@@ -1,0 +1,4 @@
+DISTIL_BERT_MODEL_CHECKPOINT = "finetuned_distil_bert_quantint8/quantint_model"
+DISTIL_BERT_TOKENIZER_CHECKPOINT = "finetuned_distil_bert_quantint8/tokenizer"
+T5_MODEL_CHECKPOINT = "finetuned_T5_quantint8/quantint_model"
+T5_TOKENIZER_CHECKPOINT = "finetuned_T5_quantint8/tokenizer"

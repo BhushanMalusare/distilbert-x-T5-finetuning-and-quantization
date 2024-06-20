@@ -1,0 +1,8 @@
+flask==3.0.3
+torch==2.3.1
+transformers==4.41.2
+streamlit==1.35.0
+requests==2.32.3
+optimum==1.20.0
+onnxruntime==1.18.0
+onnx==1.16.1

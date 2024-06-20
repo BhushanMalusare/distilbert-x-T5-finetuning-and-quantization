@@ -1,0 +1,685 @@
+,text,intent
+0,can you tell me the current time in dallas texas,asking time
+1,capture photo,click photo
+2,Hola how are you?,"greet and hello hi kind of things, general check in"
+3,tell me fun joke,tell me joke
+4,play for me the music by madonna,play on youtube
+5,This is Adam,"greet and hello hi kind of things, general check in"
+6,play the song get happy by ella fitzgeral,play on youtube
+7,Hello,"greet and hello hi kind of things, general check in"
+8,what is the weather like day before tomorrow,asking weather
+9,draft an email to kailey about work later,send email
+10,i am bored,i am bored
+11,Do you know what time it is?,asking time
+12,play melody songs,play on youtube
+13,play neil sedaka,play on youtube
+14,What can you assist me with?,what can you do
+15,do i have any new email,send email
+16,quieter,volume control
+17,Shut up,goodbye
+18,give a hand to this game,play games
+19,please play michael jackson album,play on youtube
+20,Hola how are you?,"greet and hello hi kind of things, general check in"
+21,i am bored what can i do today with my wife,i am bored
+22,please will you explain me more on what you've said.,tell me about
+23,Hello hope you are doing well?,"greet and hello hi kind of things, general check in"
+24,start play,play on youtube
+25,covid cases,covid cases
+26,what day is it day before tomorrow,asking date
+27,What are your functions?,what can you do
+28,send an email to peter and ask him how is he now can i do something to help him,send email
+29,tell me your answer,tell me about
+30,Do you know what time it is?,asking time
+31,please play clash of clans,play games
+32,latest updates,tell me news
+33,send email about <name>,send email
+34,What's the time?,asking time
+35,capture photo of,click photo
+36,what you just said was not so clear to me.,tell me about
+37,Tell me a joke,tell me joke
+38,download youtube video hd of,download youtube video
+39,play despacito on youtube today,play on youtube
+40,has the weather changed for wednesday at all,asking weather
+41,who is singing that song on now,play on youtube
+42,Hi there,"greet and hello hi kind of things, general check in"
+43,screen shot now,take screenshot
+44,"Thanks for the help, goodbye",goodbye
+45,what day is it,asking date
+46,open minestart game from previous played level,play games
+47,your response was not clear.,tell me about
+48,tell me a dad joke,tell me joke
+49,play on youtube,play on youtube
+50,send email to <name> about <name>,send email
+51,give me all ice cream shops within two miles,places near me
+52,do i have any new emails from sarah,send email
+53,Great thanks! This is Bella,"greet and hello hi kind of things, general check in"
+54,could you please lower your volume,volume control
+55,What can you assist me with?,what can you do
+56,send email to <name>,send email
+57,please open a reply to the email,send email
+58,i want to play fifa seventeen,play games
+59,what is the weather like day before tomorrow,asking weather
+60,what's good news,tell me news
+61,click selfie of,click photo
+62,Tell me a joke,tell me joke
+63,where is the nearest olive garden,places near me
+64,take screenshot,take screenshot
+65,what is the weather tomorrow,asking weather
+66,please reduce the speaker volume,volume control
+67,tomorrow,asking date
+68,Can you tell me the time?,asking time
+69,kill all the frogs you see,tell me about
+70,can you find a nice restaurant downtown,places near me
+71,What can you assist me with?,what can you do
+72,send whatsapp message to,send whatsapp message
+73,should i wear a hat today,asking weather
+74,good evening,goodbye
+75,Do you know what time it is?,asking time
+76,Quiet,goodbye
+77,send email to dipesh,send email
+78,can you make dinner for me,tell me about
+79,send email to gary,send email
+80,decrease volume to very soft,volume control
+81,What are the top places nearby?,places near me
+82,could you elaborate further on your answers to me.,tell me about
+83,daily cases of india,covid cases
+84,Great thanks! My user is Bella,"greet and hello hi kind of things, general check in"
+85,covid cases of india past 48 hours,covid cases
+86,play on youtube,play on youtube
+87,search for a good nerd joke,tell me joke
+88,who was the last person to email me,send email
+89,play bad guy on youtube,play on youtube
+90,daily cases of india,covid cases
+91,open website instagram.com,open website
+92,what song is playing on windows media player,play on youtube
+93,take screenshot of google,take screenshot
+94,lower the speakers,volume control
+95,tomorrow,asking date
+96,play me a game of tic tac toe,play games
+97,I am so bored,i am bored
+98,What can you assist me with?,what can you do
+99,lower the volume,volume control
+100,what is the weather tomorrow,asking weather
+101,what is the last email i received,send email
+102,tell me a joke today,tell me joke
+103,Give me a joke,tell me joke
+104,i need a funny joke to tell sam,tell me joke
+105,compare prices of dairy items in local shops,tell me about
+106,who sings this,play on youtube
+107,Hi there,"greet and hello hi kind of things, general check in"
+108,covid confirmed cases of,covid cases
+109,"s1, please explain further on your words to me.",tell me about
+110,places near me,places near me
+111,play kishore kumar on youtube,play on youtube
+112,what is the time in australia right now,asking time
+113,entertainment news,tell me news
+114,Great thanks! My user is Bella,"greet and hello hi kind of things, general check in"
+115,i am bored today what can i do,i am bored
+116,tell me a joke about asia,tell me joke
+117,schedule text messages for later,send email
+118,click selfie,click photo
+119,show me rediff masala,tell me news
+120,Quiet,goodbye
+121,Please be quiet,goodbye
+122,please keep quiet for the next hour,volume control
+123,tell me about yours,tell me about
+124,what is the current song called,play on youtube
+125,start spider,play games
+126,send a confirmation email to sandy,send email
+127,what is home town weather,asking weather
+128,i want to hear a joke,tell me joke
+129,please give me the time,asking time
+130,Hello how are you?,"greet and hello hi kind of things, general check in"
+131,"Thanks for the help, goodbye",goodbye
+132,what's a good joke,tell me joke
+133,want to play a game with me,play games
+134,tell me about the presidential race,tell me news
+135,Enough talking,goodbye
+136,nearest walmart location,places near me
+137,play kishore kumar on youtube,play on youtube
+138,This is Adam,"greet and hello hi kind of things, general check in"
+139,send whatsapp message,send whatsapp message
+140,tell me a joke about xenophobia,tell me joke
+141,tell me a joke about asia,tell me joke
+142,"Thank you, goodbye",goodbye
+143,what is the weather like now day before tomorrow,asking weather
+144,hey i want to send an email to my friend,send email
+145,send whatsapp message to 9898982565,send whatsapp message
+146,what time is it in mountain time zone,asking time
+147,open website stackoverflow.com,open website
+148,play uno together,play games
+149,open website stackoverflow.com,open website
+150,play games,play games
+151,what time is it day before tomorrow,asking time
+152,hi how are you,"greet and hello hi kind of things, general check in"
+153,i am bored what can i do today,i am bored
+154,what was the name of my last email,send email
+155,i want to hear play that funky music,play on youtube
+156,should i take my raincoat with me now,asking weather
+157,what is the weather like now,asking weather
+158,good afternoon,goodbye
+159,I am looking for places around here,places near me
+160,tell me a joke about virginia,tell me joke
+161,"s2, i was unclear about what you've just said.",tell me about
+162,tell me you,tell me about
+163,what's the good news of stock market,tell me news
+164,bye,goodbye
+165,how has your life been changed by me,tell me about
+166,what you have said was not so clear.,tell me about
+167,tomorrow,asking date
+168,Hello,"greet and hello hi kind of things, general check in"
+169,I am so bored,i am bored
+170,Hello,"greet and hello hi kind of things, general check in"
+171,Tell me a joke,tell me joke
+172,did you change the wallpaper,tell me about
+173,hey send email to john,send email
+174,what is the title of the song,play on youtube
+175,have you heard any good jokes lately,tell me joke
+176,Can you control the volume?,volume control
+177,Enough talking,goodbye
+178,tell me about my day,tell me about
+179,tell me good news,tell me news
+180,Can you turn the volume up?,volume control
+181,Can you control the volume?,volume control
+182,download youtube video of minecraft,download youtube video
+183,Great thanks! It is Bella,"greet and hello hi kind of things, general check in"
+184,Can you adjust the volume?,volume control
+185,i need to find a funny joke that is ok for kids,tell me joke
+186,what is the weather like day after tomorrow,asking weather
+187,Great thanks! My user is Bella,"greet and hello hi kind of things, general check in"
+188,let me know today's date in american format,asking time
+189,play a game of chess with me,play games
+190,places near me to eat today,places near me
+191,play let me love you by ariana grande,play on youtube
+192,Can you recommend some places nearby?,places near me
+193,places near me to eat today with my friends,places near me
+194,what is the weather tomorrow,asking weather
+195,howdy,"greet and hello hi kind of things, general check in"
+196,What are your functionalities?,what can you do
+197,I am so bored,i am bored
+198,send whatsapp message,send whatsapp message
+199,let me hear some bluegrass music,play on youtube
+200,send whatsapp message to,send whatsapp message
+201,give me name and type of this music,play on youtube
+202,what things can't you do,tell me about
+203,open website github.com,open website
+204,Can you tell me about,tell me about
+205,click photo,click photo
+206,tell sean i appreciate him reaching out to me,send email
+207,are there any new emails from robert jones,send email
+208,Can you increase the volume?,volume control
+209,explanation of the song,play on youtube
+210,howdy,"greet and hello hi kind of things, general check in"
+211,How about a joke,tell me joke
+212,covid cases,covid cases
+213,Good thanks! I am Adam,"greet and hello hi kind of things, general check in"
+214,Great thanks! It is Bella,"greet and hello hi kind of things, general check in"
+215,tell me you,tell me about
+216,download youtube video of <name> today,download youtube video
+217,take screenshot of,take screenshot
+218,can you give me the time in this time zone,asking time
+219,tell me about my job,tell me about
+220,what time is it day before tomorrow,asking time
+221,tomorrow,asking date
+222,what time is it day before tomorrow,asking time
+223,tell me fun joke,tell me joke
+224,take screenshot of google,take screenshot
+225,Make me laugh,tell me joke
+226,what is the weather like now tomorrow,asking weather
+227,screen shot of <name>,take screenshot
+228,Please be quiet,goodbye
+229,take screenshot of google,take screenshot
+230,i would like to hear heathens by twenty one pilots,play on youtube
+231,send whatsapp message,send whatsapp message
+232,Great thanks! It is Bella,"greet and hello hi kind of things, general check in"
+233,i am bored today,i am bored
+234,Hello there,"greet and hello hi kind of things, general check in"
+235,Hello how are you?,"greet and hello hi kind of things, general check in"
+236,what is the weather like now day before tomorrow,asking weather
+237,where can i get organic wheat,places near me
+238,What are your functionalities?,what can you do
+239,Hi there,"greet and hello hi kind of things, general check in"
+240,Do you know what time it is?,asking time
+241,covid cases of india past 48 hours,covid cases
+242,we are going to play poker together,play games
+243,play tic tac toe with me,play games
+244,tell me a joke today,tell me joke
+245,play the song title,play on youtube
+246,play despacito on youtube today,play on youtube
+247,Great thanks! It is Bella,"greet and hello hi kind of things, general check in"
+248,daily cases of india,covid cases
+249,"Thank you, goodbye",goodbye
+250,please adjust the speakers to a lower more comfortable level,volume control
+251,Do you know what time it is?,asking time
+252,its cold outside,asking weather
+253,funny joke,tell me joke
+254,hello there,"greet and hello hi kind of things, general check in"
+255,where is the closest bar,places near me
+256,can you play tic tac toe,play games
+257,send whatsapp message,send whatsapp message
+258,download youtube video of <name> today,download youtube video
+259,what's the latest on the travel ban,tell me news
+260,have i received any emails about jared's birthday,send email
+261,Hya there,"greet and hello hi kind of things, general check in"
+262,How about a joke,tell me joke
+263,Bye,goodbye
+264,what time is it today,asking time
+265,This is Adam,"greet and hello hi kind of things, general check in"
+266,I have good news,tell me news
+267,send email to xyz@gmail.com,send email
+268,Do you know what time it is?,asking time
+269,What are your functionalities?,what can you do
+270,"Thank you, bye",goodbye
+271,what did she just sing,play on youtube
+272,Good thanks! My user is Adam,"greet and hello hi kind of things, general check in"
+273,tell me a clean joke,tell me joke
+274,can you please explain more on last sentence to me.,tell me about
+275,where is a good place to eat cheap pakistani food,places near me
+276,play games of busybox,play games
+277,"s2, i was not so clear about what you said now.",tell me about
+278,the joke of the day,tell me joke
+279,Tell me a joke,tell me joke
+280,tell me a joke about birds,tell me joke
+281,which song am i listening to right now,play on youtube
+282,what time is it in the eastern half of the us right now,asking time
+283,download youtube video of,download youtube video
+284,what did you mean by saying this.,tell me about
+285,tell me more about that concert,tell me about
+286,what will be the highest temperature this week,asking weather
+287,is there any new email,send email
+288,tell me about tomorrow,tell me about
+289,I am really bored,i am bored
+290,check emails from gary for last hour,send email
+291,volume control mute,volume control
+292,"Thank you, bye",goodbye
+293,I am Bella,"greet and hello hi kind of things, general check in"
+294,play minecraft with me,play games
+295,send whatsapp message about <name>,send whatsapp message
+296,send whatsapp message about <name>,send whatsapp message
+297,let's play a game,play games
+298,hey there,"greet and hello hi kind of things, general check in"
+299,play country music,play on youtube
+300,play bad guy on youtube,play on youtube
+301,i wanna laugh can you make it happen,tell me joke
+302,do you know the name of the song that is playing,play on youtube
+303,where is the nearest atm machine,places near me
+304,what is currently breaking news,tell me news
+305,click selfie,click photo
+306,what genre of music is in my music folder,play on youtube
+307,daily cases of india,covid cases
+308,What is the weather like today,asking weather
+309,Hi there,"greet and hello hi kind of things, general check in"
+310,play racing,play games
+311,what's the good news of stock market,tell me news
+312,hey do you know any jokes,tell me joke
+313,what is the weather today,asking weather
+314,play games of xyz 32 bit,play games
+315,Great thanks! My user is Bella,"greet and hello hi kind of things, general check in"
+316,what year did this song come out,play on youtube
+317,Hello how are you?,"greet and hello hi kind of things, general check in"
+318,send email about <name>,send email
+319,What are your functionalities?,what can you do
+320,play games of xxd,play games
+321,covid confirmed cases,covid cases
+322,i want to buy over ear headphones with minimum frequency response of fifteen hz and maximum frequency response twenty two thousand hz,tell me about
+323,tomorrow,asking date
+324,download youtube video of <name>,download youtube video
+325,how do you feel after hearing justin bieber's new album,play on youtube
+326,i was not so clear about your answers.,tell me about
+327,it's quiet time,volume control
+328,What are your functionalities?,what can you do
+329,what's the funniest joke you know,tell me joke
+330,Hello there,"greet and hello hi kind of things, general check in"
+331,what day is it day before tomorrow,asking date
+332,Hello how are you?,"greet and hello hi kind of things, general check in"
+333,open my amazon music app and play my playlist,play on youtube
+334,could you rephrase me about your response again please.,tell me about
+335,What are some places near me?,places near me
+336,reply to john's email today saying i will be late,send email
+337,show current news from bbc,tell me news
+338,Quiet,goodbye
+339,hey there,"greet and hello hi kind of things, general check in"
+340,decrease speaker volume,volume control
+341,Shhh,goodbye
+342,Hola how are you?,"greet and hello hi kind of things, general check in"
+343,disable music player,volume control
+344,Can you turn the volume up?,volume control
+345,what is happening with brexit today,tell me news
+346,is anything different today about blank,tell me news
+347,How about a joke,tell me joke
+348,please provide current time in india,asking time
+349,recommend a restaurant with medium expense,places near me
+350,screen shot of <name>,take screenshot
+351,what is the day of the week,asking date
+352,play this game with me,play games
+353,please lower the speaker volume,volume control
+354,What are the things you can do?,what can you do
+355,tell me about history of british india,tell me about
+356,show me some vegan restaurants close by,places near me
+357,twenty ninth march comes on what day,asking time
+358,name the artist who sang hotel california,play on youtube
+359,I am Bella,"greet and hello hi kind of things, general check in"
+360,please quiet the speaker,volume control
+361,take screenshot,take screenshot
+362,Shut up,goodbye
+363,good news for economy,tell me news
+364,Tell me a joke,tell me joke
+365,it's really loud can you please turn the music down,volume control
+366,How are you?,"greet and hello hi kind of things, general check in"
+367,play baseball with me,play games
+368,can you explain string theory to me,tell me about
+369,what is the time in ajmer,asking time
+370,click selfie of,click photo
+371,send email about,send email
+372,how soon can we expect rain,asking weather
+373,play despacito on youtube today,play on youtube
+374,send whatsapp message,send whatsapp message
+375,covid confirmed cases of,covid cases
+376,Will it rain tomorrow,asking weather
+377,Hello,"greet and hello hi kind of things, general check in"
+378,This is Adam,"greet and hello hi kind of things, general check in"
+379,Great thanks! It is Bella,"greet and hello hi kind of things, general check in"
+380,are there any new emails received after four o'clock today,send email
+381,capture selfie,click photo
+382,Good thanks! I am Adam,"greet and hello hi kind of things, general check in"
+383,please pause yourself,volume control
+384,what's the best pizza shop nearby,places near me
+385,update me on my emails,send email
+386,Tell me a joke,tell me joke
+387,Do you know what time it is?,asking time
+388,Quiet,goodbye
+389,good day,goodbye
+390,hey there,"greet and hello hi kind of things, general check in"
+391,i need to see if i got any new email,send email
+392,daily cases of india,covid cases
+393,"Thank you, bye",goodbye
+394,send email about,send email
+395,help me to mute my speaker,volume control
+396,volume control decrease,volume control
+397,This is Adam,"greet and hello hi kind of things, general check in"
+398,please list shops within one miles from me,places near me
+399,what's good news today,tell me news
+400,what's the good news,tell me news
+401,Hello there,"greet and hello hi kind of things, general check in"
+402,I am so bored,i am bored
+403,click selfie of,click photo
+404,click photo of <name>,click photo
+405,places near me to eat today with my family,places near me
+406,"Thank you, bye",goodbye
+407,i challenge you to a game of tic tac toe,play games
+408,download youtube video of minecraft,download youtube video
+409,"Thank you, bye",goodbye
+410,what new messages do i have,send email
+411,My user is Bella,"greet and hello hi kind of things, general check in"
+412,What is the weather like today,asking weather
+413,open website youtube.com,open website
+414,i want you to play this game for me,play games
+415,tell me a joke about xenophobia,tell me joke
+416,Tell me a joke,tell me joke
+417,Quiet,goodbye
+418,time to hear me some blake shelton,play on youtube
+419,play football,play games
+420,tell me about my life,tell me about
+421,daily cases of,covid cases
+422,Hola how are you?,"greet and hello hi kind of things, general check in"
+423,time,asking time
+424,Great thanks! This is Bella,"greet and hello hi kind of things, general check in"
+425,send an email to my boss,send email
+426,open up angry birds,play games
+427,volume control,volume control
+428,Can you set the volume to minimum?,volume control
+429,what will the weather be like on saturday,asking weather
+430,Thanks good bye,goodbye
+431,send email to xyz@gmail.com,send email
+432,play kishore kumar on youtube,play on youtube
+433,What are your functionalities?,what can you do
+434,hey there,"greet and hello hi kind of things, general check in"
+435,send email about,send email
+436,Can you tell me the time?,asking time
+437,places near me,places near me
+438,Hi there,"greet and hello hi kind of things, general check in"
+439,the meaning of life,tell me about
+440,send whatsapp message about <name>,send whatsapp message
+441,"Thank you, goodbye",goodbye
+442,search for new jokes,tell me joke
+443,what time is it day before tomorrow,asking time
+444,Great thanks! This is Bella,"greet and hello hi kind of things, general check in"
+445,Shut up,goodbye
+446,play games with me,play games
+447,tomorrow,asking date
+448,silence for certain amount of hours,volume control
+449,tell me a joke about virginia,tell me joke
+450,volume control decrease,volume control
+451,play games of gcc,play games
+452,play bad guy on youtube,play on youtube
+453,what time is it now,asking time
+454,click selfie,click photo
+455,screen shot now,take screenshot
+456,what is latest news about this world,tell me news
+457,volume control increase,volume control
+458,what a sunny day,asking weather
+459,what's the time in dubai,asking time
+460,provide wall street journal news,tell me news
+461,capture selfie,click photo
+462,take screenshot,take screenshot
+463,covid cases of india past 24 hours,covid cases
+464,what music is it,play on youtube
+465,What services do you offer?,what can you do
+466,i am bored what can i do today with my wife,i am bored
+467,will you rephrase this again to me please.,tell me about
+468,where is the closest kroger,places near me
+469,Good thanks! My user is Adam,"greet and hello hi kind of things, general check in"
+470,"Thank you, bye",goodbye
+471,"Thank you, goodbye",goodbye
+472,send email,send email
+473,"Thank you, goodbye",goodbye
+474,Shut up,goodbye
+475,show time in china,asking time
+476,have a anyinput day,tell me about
+477,what is the time now,asking time
+478,tell me about my day,tell me about
+479,what is the weather like now today,asking weather
+480,click selfie,click photo
+481,click photo of,click photo
+482,open website stackoverflow.com,open website
+483,further explain.,tell me about
+484,Great thanks! This is Bella,"greet and hello hi kind of things, general check in"
+485,open website stackoverflow.com,open website
+486,what is the email i got from my girlfriend,send email
+487,Is it going to snow,asking weather
+488,tell me a joke about the sun,tell me joke
+489,is it possible for you to provide the likes of my music,play on youtube
+490,volume control increase by 10,volume control
+491,play what i am by edie brickel,play on youtube
+492,let's play a game of truth or dare,play games
+493,tell me news day after tomorrow,tell me news
+494,What are your functionalities?,what can you do
+495,What is the weather like today,asking weather
+496,what music is being played right now,play on youtube
+497,i am bored what can i do,i am bored
+498,"s2, do not get the last sentence.",tell me about
+499,i want to mute the speaker,volume control
+500,send an email to qerwerq@hotmail dot com,send email
+501,Where should I go nearby?,places near me
+502,how can i make your day a little better,tell me about
+503,covid confirmed cases of,covid cases
+504,Do you know any jokes,tell me joke
+505,It is Adam,"greet and hello hi kind of things, general check in"
+506,screen shot of <name>,take screenshot
+507,daily cases of india,covid cases
+508,Do you know any jokes,tell me joke
+509,hello there,"greet and hello hi kind of things, general check in"
+510,what will the weather be next week,asking weather
+511,How about a joke,tell me joke
+512,i am bored today what can i do,i am bored
+513,"Thank you, goodbye",goodbye
+514,Do you know what time it is?,asking time
+515,play games of xyz 32 bit,play games
+516,My user is Bella,"greet and hello hi kind of things, general check in"
+517,drive the car and bring my friends over,tell me about
+518,This is Adam,"greet and hello hi kind of things, general check in"
+519,Can you tell me the time?,asking time
+520,day after tomorrow,asking date
+521,send the following email to bro hi come down for dinner tonight,send email
+522,check any mail from amazon,send email
+523,send email to <name>,send email
+524,Quiet,goodbye
+525,covid confirmed cases of,covid cases
+526,Shut up,goodbye
+527,What can you assist me with?,what can you do
+528,"Thank you, goodbye",goodbye
+529,what cd is this song on,play on youtube
+530,i am bored today what can i do,i am bored
+531,what time is it day before tomorrow,asking time
+532,usa today headlines,tell me news
+533,what is name of the song currently playing,play on youtube
+534,Tell me a joke,tell me joke
+535,what are the results of the election,tell me news
+536,play on youtube,play on youtube
+537,whats up,"greet and hello hi kind of things, general check in"
+538,what will be the temperature today for miami florida,asking weather
+539,day after tomorrow,asking date
+540,what is the weather like,asking weather
+541,play games of xyz 32 bit,play games
+542,tell me about history of british india,tell me about
+543,daily cases of india,covid cases
+544,Bye,goodbye
+545,please rephrase again to me.,tell me about
+546,Hello,"greet and hello hi kind of things, general check in"
+547,set volume to zero,volume control
+548,Be quiet,goodbye
+549,What can you assist me with?,what can you do
+550,what's good news today,tell me news
+551,be my clock,asking time
+552,Can you change the volume to a specific level?,volume control
+553,Where should I go nearby?,places near me
+554,please be quiet for another hour,volume control
+555,send whatsapp message,send whatsapp message
+556,tell me about today,tell me about
+557,send email to nancy about tomorrow's work party details,send email
+558,open website stackoverflow.com,open website
+559,when was this song released,play on youtube
+560,send whatsapp message,send whatsapp message
+561,I am Bella,"greet and hello hi kind of things, general check in"
+562,play baseball with me,play games
+563,whats up,"greet and hello hi kind of things, general check in"
+564,i need to know current weather in new york city,asking weather
+565,are you aware this joke,tell me joke
+566,This is Adam,"greet and hello hi kind of things, general check in"
+567,turn off audio,volume control
+568,click photo of <name>,click photo
+569,turn down media volume,volume control
+570,take screenshot,take screenshot
+571,play games of gcc,play games
+572,have you made a mistake.,tell me about
+573,click photo of <name>,click photo
+574,i want to listen arijit singh song once again,play on youtube
+575,Can you turn the volume down?,volume control
+576,Great thanks! I am Bella,"greet and hello hi kind of things, general check in"
+577,i want to hear purple haze,play on youtube
+578,good evening,goodbye
+579,Tell me a joke,tell me joke
+580,Hola how are you?,"greet and hello hi kind of things, general check in"
+581,show me the current time,asking time
+582,check the news,tell me news
+583,what is the weather like,asking weather
+584,What can you assist me with?,what can you do
+585,play my favorite music,play on youtube
+586,what pubs are close to me,places near me
+587,what is a good lave to eat near me,places near me
+588,I am feeling a bit bored,i am bored
+589,Hope you are doing well?,"greet and hello hi kind of things, general check in"
+590,mute yourself when i am in a meeting,volume control
+591,can you tell me a latest news,tell me news
+592,show me the best podcast of folk songs having good rating and play it,play on youtube
+593,download youtube video of <name>,download youtube video
+594,name stores within ten mile radius with music,places near me
+595,can you search trump,tell me news
+596,covid confirmed cases of,covid cases
+597,How about a joke,tell me joke
+598,download youtube video of kishore kumar,download youtube video
+599,"s1, please clarify me about your answers once again.",tell me about
+600,search for the correct game,play games
+601,send reply thank you so much mom to mom,send email
+602,send whatsapp message to,send whatsapp message
+603,what time is it day before tomorrow,asking time
+604,would you go check my emails for me,send email
+605,whose song is this,play on youtube
+606,what time is it today,asking time
+607,check all the new them emails and mark them star,send email
+608,send an email to jesse,send email
+609,what's good news,tell me news
+610,share me a joke,tell me joke
+611,What can you assist me with?,what can you do
+612,how many grocery stores are located in my neighborhood,places near me
+613,Good thanks! I am Adam,"greet and hello hi kind of things, general check in"
+614,you're too loud,volume control
+615,headline news for texas,tell me news
+616,whats up,"greet and hello hi kind of things, general check in"
+617,open website stackoverflow.com,open website
+618,daily cases of india,covid cases
+619,Tell me a joke,tell me joke
+620,Hi there,"greet and hello hi kind of things, general check in"
+621,take screenshot of google,take screenshot
+622,Hello hope you are doing well?,"greet and hello hi kind of things, general check in"
+623,what is the weather tomorrow,asking weather
+624,tell me about my job,tell me about
+625,play games of xyz 32 bit,play games
+626,covid cases of,covid cases
+627,search for local shops,places near me
+628,download youtube video of <name>,download youtube video
+629,open website facebook.com,open website
+630,hello there,"greet and hello hi kind of things, general check in"
+631,good day,goodbye
+632,Tell me a joke,tell me joke
+633,download youtube video of minecraft,download youtube video
+634,lower speaker volume,volume control
+635,What can you help me with?,what can you do
+636,tell me a joke about a man,tell me joke
+637,Can you set the volume to maximum?,volume control
+638,What are your functionalities?,what can you do
+639,tell me about a vet,tell me about
+640,covid cases of india past 24 hours,covid cases
+641,download youtube video hd of,download youtube video
+642,who sings this song,play on youtube
+643,send email to,send email
+644,play let me love you on youtube,play on youtube
+645,play games with me,play games
+646,turn the volume down,volume control
+647,bye,goodbye
+648,volume control mute,volume control
+649,"Thank you, goodbye",goodbye
+650,can you please clarify me more on your answers.,tell me about
+651,compose a new email but i got a new address this time brandon at example dot com,send email
+652,what can you do,what can you do
+653,Please be quiet,goodbye
+654,decrease twenty percent,volume control
+655,open website github.com,open website
+656,Hope you are doing well?,"greet and hello hi kind of things, general check in"
+657,covid confirmed cases of,covid cases
+658,good day,goodbye
+659,screen shot of <name>,take screenshot
+660,what day is it day after tomorrow,asking date
+661,Shut up,goodbye
+662,mute for volume,volume control
+663,"Thanks for the help, goodbye",goodbye
+664,send email,send email
+665,what is the weather like day before tomorrow,asking weather
+666,send email to,send email
+667,download youtube video of <name> today,download youtube video
+668,open website stackoverflow.com,open website
+669,what time is it day after tomorrow,asking time
+670,what time is it tomorrow,asking time
+671,Hello,"greet and hello hi kind of things, general check in"
+672,explain further on last sentence to me please.,tell me about
+673,what is the weather,asking weather
+674,Do you know what time it is?,asking time
+675,play baseball net,play games
+676,Great thanks! I am Bella,"greet and hello hi kind of things, general check in"
+677,send email about,send email
+678,good afternoon,goodbye
+679,i am bored what can i do today with my family,i am bored
+680,download youtube video of minecraft,download youtube video
+681,mute,volume control
+682,Do you know what time it is?,asking time
+683,Hola how are you?,"greet and hello hi kind of things, general check in"
